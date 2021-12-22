@@ -1,117 +1,455 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "url": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "name": "Jackie Allam",
+    "label": "Junior Developer",
+    "picture": "https://avatars2.githubusercontent.com/u/69770807?v=4",
+    "email": "jackieallam@mailbox.org",
+    "phone": "0842200777",
+    "website": "https://jackieallam.github.io/",
+    "summary": "I’m looking for a Junior Developer role that will allow me to grow as a developer. I am a hard worker and believe that I can add a lot of value to any company that will give me a chance. I'm currently working on improving my Python & JavaScript skills. I have a keen interest in blockchain technology, and also enjoy playing trading card games online.",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
-    },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
-    }]
-  },
-  "work": [{
-    "name": "Company",
-    "position": "Developer",
-    "url": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Lead Developer of Innovation hub"
+      "address": "",
+      "postalCode": "",
+      "city": "Cape Town",
+      "countryCode": "",
+      "region": "Cape Town"
+      },
+    "profiles": [
+      {
+        "network": "gitconnected",
+        "username": "jackieallam",
+        "url": "https://gitconnected.com/jackieallam"
+      },
+      {
+        "network": "GitHub",
+        "username": "jackieallam",
+        "url": "https://github.com/jackieallam"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jackieallam/",
+        "username": "jackieallam"
+      }
     ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "http://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.ph",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "score": "4.0",
-    "courses": [
-      "WEB101 - Web Development",
-      "SYS123 - Object Oriented Programming"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2020-10-01",
-    "url": "http://publication.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
-    ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
+   },
+  "skills": [
     {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
+      "name": "Python",
+      "level": "Intermediate",
       "keywords": [
-        "PHP", "NodeJS", "Javascript"
+        "Flask",
+        "Tkinter",
+        "Turtle",
+        "Selenium",
+        "Beautiful Soup",
+        "Pandas",
+        "WTForms"
       ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
+      "rating": 3,
+      "yearsOfExperience": 1
+    },
+    {
+      "name": "JavaScript ES6",
+      "level": "Intermediate",
+      "keywords": [
+        "Node",
+        "Express",
+        "React",
+        "jQuery",
+        "EJS"
       ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
+      "rating": 3,
+      "yearsOfExperience": 1
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "rating": 3,
+      "yearsOfExperience": 5
+    },
+    {
+      "name": "Java",
+      "level": "Beginner",
+      "keywords": [
+        "Java",
+        "OOP"
+      ],
+      "rating": 2,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "C# and ASP.NET",
+      "level": "Learning",
+      "keywords": [
+        "C#",
+        "ASP.NET"
+      ],
+      "rating": 1,
+      "yearsOfExperience": null
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "NoSQL",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "rating": 3,
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "Others",
+      "level": "Beginner",
+      "keywords": [
+        "Git",
+        "Github",
+        "JSON",
+        "REST API",
+        "Ubuntu",
+        "Linux",
+        "Heroku",
+        "npm",
+        "Authentication"
+      ],
+      "rating": 2,
+      "yearsOfExperience": 1
     }
-  ]
+  ],
+  "work": [
+    {
+      "name": "Amazon.com",
+      "location": "Cape Town",
+      "description": "",
+      "position": "Customer Service Associate - Digital",
+      "url": "https://www.facebook.com/AmazonDevelopmentCentre/",
+      "startDate": "2018-07-01",
+      "endDate": "2021-10-01",
+      "summary": "Worked with customers and leadership to resolve technical issues with their devices and digital services.\nEmphasis on punctuality, performance metrics and consistently acknowledged as a top performer.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2018,
+        "month": 7
+      },
+      "end": {
+        "year": 2021,
+        "month": 10
+      },
+      "company": "Amazon.com",
+      "website": "https://www.facebook.com/AmazonDevelopmentCentre/"
+    },
+    {
+      "name": "Self-employed",
+      "location": "Cape Town",
+      "description": "",
+      "position": "Business Owner/Manager",
+      "url": "",
+      "startDate": "2016-05-01",
+      "endDate": "2018-06-01",
+      "summary": "Created a line of home-cooked Banting-style frozen foods and worked on promoting the business.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2016,
+        "month": 5
+      },
+      "end": {
+        "year": 2018,
+        "month": 6
+      },
+      "company": "Self-employed",
+      "website": ""
+    },
+    {
+      "name": "Steinbuild (now The Building Company)",
+      "location": "Cape Town",
+      "description": "",
+      "position": "Debtor's Clerk",
+      "url": "https://thebuildingco.com/",
+      "startDate": "2014-09-01",
+      "endDate": "2016-04-01",
+      "summary": "Provided telephonic support for store staff and vetting of new credit applications. Also performed varied admin functions, including monthly reports, filing, email and telephone communications, data capture.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2014,
+        "month": 9
+      },
+      "end": {
+        "year": 2016,
+        "month": 4
+      },
+      "company": "Steinbuild (now The Building Company)",
+      "website": "https://thebuildingco.com/"
+    },
+    {
+      "name": "Bryanston Veterinary Clinic",
+      "location": "Randburg, Gauteng",
+      "description": "",
+      "position": "Front Desk Receptionist",
+      "url": "https://bryanston-avian-exotic-small-animal-clinic.business.site/",
+      "startDate": "2013-08-01",
+      "endDate": "2014-07-01",
+      "summary": "Oversaw all front desk and telephone reception at busy clinic, including cashier duties. Also varied general office administration.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2013,
+        "month": 8
+      },
+      "end": {
+        "year": 2014,
+        "month": 7
+      },
+      "company": "Bryanston Veterinary Clinic",
+      "website": "https://bryanston-avian-exotic-small-animal-clinic.business.site/"
+    },
+    {
+      "name": "Self-employed",
+      "location": "Randburg, Gauteng",
+      "description": "",
+      "position": "PC Support Technician & Webmaster",
+      "url": "",
+      "startDate": "2002-02-01",
+      "endDate": "2013-07-01",
+      "summary": "Provided basic computer support to clients, including hardware and software installation, upgrades & maintenance.\nWebsite development and maintenance for a number of clients. Also provided antivirus & malware removal and CD/DVD duplication services.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 2002,
+        "month": 2
+      },
+      "end": {
+        "year": 2013,
+        "month": 7
+      },
+      "company": "Self-employed",
+      "website": ""
+    },
+    {
+      "name": "Self-employed",
+      "location": "Cape Town, East London & Randburg, South Africa",
+      "description": "",
+      "position": "Webmaster",
+      "url": "",
+      "startDate": "1998-11-01",
+      "endDate": "2003-05-01",
+      "summary": "Developed and maintained own personal interest websites. Self-taught HTML & CSS.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 1998,
+        "month": 11
+      },
+      "end": {
+        "year": 2003,
+        "month": 5
+      },
+      "company": "Self-employed",
+      "website": ""
+    },
+    {
+      "name": "Various",
+      "location": "Cape Town & East London, South Africa",
+      "description": "",
+      "position": "Data Capturer & General Support (Contract employment)",
+      "url": "",
+      "startDate": "1999-03-01",
+      "endDate": "2001-07-01",
+      "summary": "Mostly a variety of data capture projects, also filling in for ad-hoc duties including general computer and network support, reception, filing, drafting, etc.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 1999,
+        "month": 3
+      },
+      "end": {
+        "year": 2001,
+        "month": 7
+      },
+      "company": "Various",
+      "website": ""
+    },
+    {
+      "name": "The Data Base Approach",
+      "location": "Cape Town,  South Africa",
+      "description": "",
+      "position": "Junior C Programmer",
+      "url": "",
+      "startDate": "1998-07-01",
+      "endDate": "1999-01-01",
+      "summary": "Implemented ad-hoc changes to legacy system code using C and SQL.\nStarted development of new website project.",
+      "highlights": [],
+      "isCurrentRole": false,
+      "start": {
+        "year": 1998,
+        "month": 7
+      },
+      "end": {
+        "year": 1999,
+        "month": 1
+      },
+      "company": "The Data Base Approach",
+      "website": ""
+    }
+  ],
+  "publications": [],
+  "education": [
+    {
+      "institution": "Ethereum and Solidity Smart Contracts",
+      "url": "https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/",
+      "area": "",
+      "studyType": "by Stephen Grider @ Udemy.com",
+      "startDate": "2021-06-01",
+      "endDate": "2021-11-01",
+      "score": "",
+      "courses": [],
+      "description": "Currently studying this course - Using Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain.",
+      "activities": "",
+      "start": {
+        "year": 2021,
+        "month": 6
+      },
+      "end": {
+        "year": 2021,
+        "month": 11
+      },
+      "website": "https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/",
+      "gpa": ""
+    },
+    {
+      "institution": "Complete Java Certification Course",
+      "url": "https://www.udemy.com/course/master-practical-java-development/",
+      "area": "",
+      "studyType": "by Imtiaz Ahmad @ Udemy.com",
+      "startDate": "2021-10-01",
+      "endDate": "2021-10-01",
+      "score": "",
+      "courses": [],
+      "description": "A practical Java course covering everything from basic object oriented concepts of classes and interfaces, to exception handling, file processing, collections framework, generics, multi-threading, JDBC, streams and memory management.",
+      "activities": "",
+      "start": {
+        "year": 2021,
+        "month": 10
+      },
+      "end": {
+        "year": 2021,
+        "month": 10
+      },
+      "website": "https://www.udemy.com/course/master-practical-java-development/",
+      "gpa": ""
+    },
+    {
+      "institution": "Python Professional Bootcamp",
+      "url": "https://www.udemy.com/course/100-days-of-code/",
+      "area": "",
+      "studyType": "by Angela Yu @ Udemy.com",
+      "startDate": "2020-11-01",
+      "endDate": "2021-08-01",
+      "score": "",
+      "courses": [],
+      "description": "One of the most comprehensive Python courses available online. Using a number of frameworks, we built a variety projects covering scripting and automation, building websites and web apps, games, and data science.",
+      "activities": "",
+      "start": {
+        "year": 2020,
+        "month": 11
+      },
+      "end": {
+        "year": 2021,
+        "month": 8
+      },
+      "website": "https://www.udemy.com/course/100-days-of-code/",
+      "gpa": ""
+    },
+    {
+      "institution": "Full Stack Web Development",
+      "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+      "area": "",
+      "studyType": "by Angela Yu @ Udemy.com",
+      "startDate": "2020-08-01",
+      "endDate": "2021-07-01",
+      "score": "",
+      "courses": [],
+      "description": "Extensively covering HTML, CSS, Bootstrap, Javascript, Node, React, MongoDB and many other tools and frameworks. I found this a necessary and useful upgrade to my basic web development skills.",
+      "activities": "",
+      "start": {
+        "year": 2020,
+        "month": 8
+      },
+      "end": {
+        "year": 2021,
+        "month": 7
+      },
+      "website": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+      "gpa": ""
+    },
+    {
+      "institution": "National Diploma Information Technology",
+      "url": "https://www.cput.ac.za/",
+      "area": "",
+      "studyType": "Cape Technikon",
+      "startDate": "1996-01-01",
+      "endDate": "1998-12-01",
+      "score": "",
+      "courses": [],
+      "description": "With a focus on programming, this diploma included studies of Database & Information Systems, Statistics, Cost Accounting and a few languages namely - C++, Cobol, Natural and Assembly.",
+      "activities": "",
+      "start": {
+        "year": 1996,
+        "month": 1
+      },
+      "end": {
+        "year": 1998,
+        "month": 12
+      },
+      "website": "https://www.cput.ac.za/",
+      "gpa": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Afrikaans",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cryptocurrencies and blockchain technology,  Trading card games",
+      "keywords": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "issuer": "udemy",
+      "date": "2021-07-16",
+      "url": "https://www.udemy.com/certificate/UC-959a94c2-4bd2-4719-9dea-ec0e4a6ed7d6/",
+      "summary": "This certificate verifies that the course was successfully completed.",
+      "fullDate": {
+        "year": 2021,
+        "month": 7,
+        "day": 16
+      },
+      "website": "https://www.udemy.com/certificate/UC-959a94c2-4bd2-4719-9dea-ec0e4a6ed7d6/"
+    }
+  ],
+  "meta": {
+    "note": "This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2020-12-29T15:53:00"
+  }
 }
